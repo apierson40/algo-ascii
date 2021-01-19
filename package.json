@@ -1,0 +1,8 @@
+{
+  "name": "algo-ascii-source",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gitlab.com/company-agilap/recruit-tests/tests-alexandre/algo-ascii-source.git",
+  "author": "apierson40 <alexandre.pierson40@gmail.com>",
+  "license": "MIT"
+}
